@@ -1,0 +1,10 @@
+package variaveis;
+
+public class Flutuante {
+	public static void main(String[] args) {
+		double hora=3.5;
+		System.out.println("agora são exatamnente "+hora + " horas");
+	}
+	
+
+}

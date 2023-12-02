@@ -1,0 +1,11 @@
+package caracteres;
+
+public class Testacaracteres {
+
+	public static void main(String[] args) {
+		
+		char letra='a';
+		System.out.println(letra);
+	}
+
+}

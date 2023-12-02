@@ -1,0 +1,12 @@
+package contas;
+
+public class TestaMetodo {
+	public static void main(String[] args) {
+		Conta contaDoNathan= new Conta();
+		contaDoNathan.saldo=100;
+		contaDoNathan.deposita(70);
+		System.out.println(contaDoNathan.saldo);
+		System.out.println(contaDoNathan.saca(50));
+	}
+
+}

@@ -1,0 +1,18 @@
+package variaveis;
+
+public class TestandoCondicionais{
+	public static void main(String[] args) {
+		System.out.println("testando condicionais. 2");
+		int idade = 20;
+		int quantidadePessoa = 1;
+		if (idade >= 18 || quantidadePessoa >= 2)
+
+		{
+			System.out.println("ok, voce pode comprar bebida");
+		} else {
+			System.out.println("voce não pode comprar bebida");
+			}
+		}
+	}
+
+

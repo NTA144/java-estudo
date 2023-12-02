@@ -1,0 +1,18 @@
+package variaveis;
+
+public class TestandoVariaveis {
+	public static void main(String[] args) {
+		System.out.println("testando condicionais. ");
+		int idade = 20;
+		int quantidadePessoa = 2;
+		if (idade >= 18 || quantidadePessoa >= 2 )
+
+		{
+			System.out.println("ok, você tem mais de 18 anos.");
+		} else {
+				System.out.println("voce não tem 18 anos. nem esta com o pai");
+			}
+		}
+	}
+
+

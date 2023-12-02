@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\CLEIDIVAN\Documents\nathan (não apague)\.metadata\.plugins\org.eclipse.jdt.core
+3352051905.index
+1865797976.index
